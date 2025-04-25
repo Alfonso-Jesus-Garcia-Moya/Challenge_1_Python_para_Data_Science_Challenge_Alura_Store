@@ -60,7 +60,7 @@ Ranking de productos más vendidos por tienda.
 
 
 
-INFORME FINAL
+# INFORME FINAL
 📊 Informe Final de Análisis para el Señor Juan Autor: Alfonso Jesús García Moya, Data Scientist Fecha: Abril 2025
 
 🔹 Introducción Este informe tiene como finalidad asesorar al Señor Juan en su decisión sobre qué tienda debería vender, considerando un análisis profundo basado en múltiples métricas de desempeño.
